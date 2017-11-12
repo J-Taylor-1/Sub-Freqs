@@ -7,4 +7,5 @@ If passed as a folder, only .srt files in the root directory will be analysed; n
 # Usage
 
 python srt_freqs.py filepath.srt
+
 python srt_freqs.py folderpath
